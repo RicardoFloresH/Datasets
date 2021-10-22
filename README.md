@@ -14,3 +14,8 @@ Most famous datasets for Machine Learning and Deep Learning
 - WordNet: [Link](https://wordnet.princeton.edu/)
 - Yelp Reviews: [Link](https://www.yelp.com/dataset)
 - The Wikipedia Corpus: [Link](https://nlp.cs.nyu.edu/wikipedia-data/)
+
+## Audio
+- Free Spoken Digit Dataset (FSDD): [Link](https://github.com/Jakobovski/free-spoken-digit-dataset)
+- Free Music Archive (FMA): [Link](https://github.com/mdeff/fma)
+- LibriSpeech: [Link](http://www.openslr.org/12/)
