@@ -1,3 +1,12 @@
+# Repositories 
+Famous repositories for Machine Learning and Deep Learning 
+- UCI: [Link](https://archive.ics.uci.edu/ml/datasets.php)
+- Kaggle: [Link](https://www.kaggle.com/datasets)
+- VisualData: [Link](https://visualdata.io/discovery)
+- OpenML: [Link](https://www.openml.org/)
+- DataHub: [Link](https://datahub.io/collections)
+- Paper with  Code: [Link](https://paperswithcode.com/datasets)
+
 # Datasets
 Most famous datasets for Machine Learning and Deep Learning 
 
@@ -31,12 +40,3 @@ Most famous datasets for Machine Learning and Deep Learning
 ## Video
 - DAIC-WOZ: [Link](https://dcapswoz.ict.usc.edu/)
 - Youtube-8M: [Link](https://research.google.com/youtube8m/index.html)
-
-# Repositories 
-Famous repositories for Machine Learning and Deep Learning 
-- UCI: [Link](https://archive.ics.uci.edu/ml/datasets.php)
-- Kaggle: [Link](https://www.kaggle.com/datasets)
-- VisualData: [Link](https://visualdata.io/discovery)
-- OpenML: [Link](https://www.openml.org/)
-- DataHub: [Link](https://datahub.io/collections)
-- Paper with  Code: [Link](https://paperswithcode.com/datasets)
