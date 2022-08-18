@@ -6,6 +6,7 @@ Most famous datasets for Machine Learning and Deep Learning
 - Fashion-MNIST: [Link](https://github.com/zalandoresearch/fashion-mnist)
 - ImageNet: [Link](https://image-net.org/)
 - CIFAR-10: [Link](http://www.cs.toronto.edu/~kriz/cifar.html)
+- MIMIC-CXR: [Link](https://physionet.org/content/mimic-cxr/2.0.0/)
 
 
 ## Text
