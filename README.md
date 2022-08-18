@@ -6,6 +6,7 @@ Famous repositories for Machine Learning and Deep Learning
 - OpenML: [Link](https://www.openml.org/)
 - DataHub: [Link](https://datahub.io/collections)
 - Paper with  Code: [Link](https://paperswithcode.com/datasets)
+- HuggingFace: [Link](https://huggingface.co/datasets)
 
 # Datasets
 Most famous datasets for Machine Learning and Deep Learning 
