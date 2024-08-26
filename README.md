@@ -1,6 +1,6 @@
 # Repositories 
 Famous repositories for Machine Learning and Deep Learning 
-- UCI: [Link](https://archive.ics.uci.edu/ml/datasets.php)
+- UCI: [Link](https://archive.ics.uci.edu/datasets)
 - Kaggle: [Link](https://www.kaggle.com/datasets)
 - VisualData: [Link](https://visualdata.io/discovery)
 - OpenML: [Link](https://www.openml.org/)
